@@ -11,10 +11,10 @@
   Se utilizó un dataset público de ventas simuladas con registros diarios del año 2024.
   El archivo contiene 3 columnas: id, sales_date y sales_amount.
   Disponible en: https://gist.github.com/khanusama20/ee33c2869dd5cf3cebdf020be1ca43f6
-  Indicadores calculados:
-    - Ventas totales.
-    - Ventas por mes.
-    - Mes con mayor cantidad de ventas.
+  #Indicadores calculados:
+    #- Ventas totales.
+    #- Ventas por mes.
+    #- Mes con mayor cantidad de ventas.
     
 #● Instrucciones básicas para ejecutar el script:
   1. Clonar el repositorio.
